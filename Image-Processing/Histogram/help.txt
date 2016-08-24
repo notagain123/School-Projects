@@ -1,0 +1,1 @@
+Given 4 threashold values, run the program 4 times and do the comparison
