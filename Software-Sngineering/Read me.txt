@@ -1,0 +1,8 @@
+-Database Schema folder contains all the tables we   
+ created
+
+-Eclipse Code folder contains all the source code  for the servelet and rmi
+
+-Apk folder contains the apk file
+
+-DocRMS folder contains all the source code for the   app
